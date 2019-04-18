@@ -15,4 +15,7 @@
 ## How it Works
 <p>When the user prompts the application to run, it is first welcomed, then asked if they would like to purchase an item or exit the application. If purchase is selected, the available items will print to the console:
 </p>
-  
+
+![Image description](https://drive.google.com/open?id=11T6UyqWnlT-cObYEdsZzty8HrvLc179Z)
+
+
