@@ -16,6 +16,6 @@
 <p>When the user prompts the application to run, it is first welcomed, then asked if they would like to purchase an item or exit the application. If purchase is selected, the available items will print to the console:
 </p>
 
-![Image description](Item_Prompt.PNG)
+![Image description](https://github.com/benderb64/Bamazon/blob/master/images/Item_Prompt.PNG)
 
 
