@@ -6,9 +6,9 @@
 <p>This application utilizes a MySQL Database in order to store product information. It is a node based application.</p>
 
 ## Technologies Used
-<li>
-  <ul>JavaScript</ul>
-  <ul>MySQL</ul>
-  <ul>Node.js</ul>
-<li>
+<ul>
+  <li>JavaScript</li>
+  <li>MySQL</li>
+  <li>Node.js</li>
+<ul>
   
