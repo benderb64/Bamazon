@@ -18,4 +18,10 @@
 
 ![Image description](https://github.com/benderb64/Bamazon/blob/master/images/Item_Prompt.PNG)
 
+<p>The application will then ask the user how many items they need. If the amount the user needs is still in stock then the order will be placed.
+</p>
+
+![Image description](https://github.com/benderb64/Bamazon/blob/master/images/Item_Prompt.PNG)
+
+
 
