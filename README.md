@@ -13,7 +13,7 @@
 <ul>
  
 ## How it Works
-<p>When the user prompts the application to run, it is first welcomed, then asked if they would like to purchase an item or exit the application. If purchase is selected, the available items will print to the console:
+<p>When the user prompts the application to run, they are shown the list of items available to purchase. They are then asked to enter the ID of the item they wish to order.
 </p>
 
 ![Image description](https://github.com/benderb64/Bamazon/blob/master/images/Item_Prompt.PNG)
