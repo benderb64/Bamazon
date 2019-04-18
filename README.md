@@ -23,7 +23,7 @@
 
 ![Image description](https://github.com/benderb64/Bamazon/blob/master/images/Order_Acceptance.PNG)
 
-<p>The quantity of each item is tracked in the MySQL Database so if the customer orders more than available, then their request is denied.
+<p>The quantity of each item is stored in the MySQL Database so if the customer orders more than available, then their request is denied.
 </p>
 
 ![Image description](https://github.com/benderb64/Bamazon/blob/master/images/Request_Denied.PNG)
